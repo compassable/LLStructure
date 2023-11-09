@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## LLStructure
 
-Copyright (c) 2023 2285202548@qq.com <shiwenchao@cri.cn>
+Copyright (c) 2023 2285202548@qq.com  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
