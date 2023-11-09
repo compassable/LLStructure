@@ -1,0 +1,6 @@
+framework module LLStructure {
+  umbrella header "LLStructure-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - LLStructure (0.1.0)
+
+DEPENDENCIES:
+  - LLStructure (from `../`)
+
+EXTERNAL SOURCES:
+  LLStructure:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LLStructure: 00616c580f3da54f1cc816b6fb314277f9831049
+
+PODFILE CHECKSUM: 59b06b82726d7e112a88bc836c3332dcf0b9fedf
+
+COCOAPODS: 1.11.3
