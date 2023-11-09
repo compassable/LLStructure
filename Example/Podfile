@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'LLStructure_Example' do
+  pod 'LLStructure', :path => '../'
+
+  target 'LLStructure_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
