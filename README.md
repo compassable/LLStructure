@@ -22,7 +22,7 @@ pod 'LLStructure'
 
 ## Author
 
-2285202548@qq.com, shiwenchao@cri.cn
+2285202548@qq.com
 
 ## License
 
